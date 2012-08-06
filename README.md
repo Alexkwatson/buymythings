@@ -13,9 +13,9 @@ Display your sold items
 
 To display the items you’ve sold, use the following markup:
 
-<ul class="sold">
+`<ul class="sold">
 	<li><img src="foo.png"/></li>
-</ul>
+</ul>`
 
 License
 -------
